@@ -5,8 +5,6 @@ When you enter your x,y coordinates they are automatically numbered from 1-"n", 
 
 
 
-©(Copyright): Nicholas Cleveland
-
 
 You may use this program and it's code however you wish (reverse engineering, licensing etc...). It's Freeware.
 Feel free to update and rebuild some methods if you wish. This is an early version of the program
