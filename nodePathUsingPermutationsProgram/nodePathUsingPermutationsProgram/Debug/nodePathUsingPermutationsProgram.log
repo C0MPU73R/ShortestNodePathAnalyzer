@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(80): warning C4018: '<': signed/unsigned mismatch
+  nodePathUsingPermutationsProgram.vcxproj -> C:\Users\Nick\Documents\Dev\ProgrammingProjects\Languages\C++\nodePathUsingPermutationsProgram\Debug\nodePathUsingPermutationsProgram.exe
+  nodePathUsingPermutationsProgram.vcxproj -> C:\Users\Nick\Documents\Dev\ProgrammingProjects\Languages\C++\nodePathUsingPermutationsProgram\Debug\nodePathUsingPermutationsProgram.pdb (Partial PDB)
