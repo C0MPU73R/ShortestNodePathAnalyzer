@@ -8,5 +8,5 @@ When you enter your x,y coordinates they are automatically numbered from 1-"n", 
 ©(Copyright): Nicholas Cleveland
 
 
-You may use this program and it's code however you wish (reverse engineering, licensing etc...). It'sFreeware.
-If you have any question please email me (using a relevant subject name) at: nicholascleveland@protonmail.com
+You may use this program and it's code however you wish (reverse engineering, licensing etc...). It's Freeware.
+If you have any questions please email me (using a relevant subject name) at: nicholascleveland@protonmail.com
