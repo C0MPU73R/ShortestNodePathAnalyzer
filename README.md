@@ -9,4 +9,10 @@ When you enter your x,y coordinates they are automatically numbered from 1-"n", 
 
 
 You may use this program and it's code however you wish (reverse engineering, licensing etc...). It's Freeware.
-If you have any questions please email me (using a relevant subject name) at: nicholascleveland@protonmail.com
+Feel free to update and rebuild some methods if you wish. This is an early version of the program
+
+
+
+
+
+If you have any questions or cool changes please email me (using a relevant subject name) at: nicholascleveland@protonmail.com
