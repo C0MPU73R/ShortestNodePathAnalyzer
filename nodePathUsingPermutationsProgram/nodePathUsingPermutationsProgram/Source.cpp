@@ -10,20 +10,18 @@ int main()
 	vector<nodeInformation> nodeStops;
 	int x;
 	int y;
-	string name;
 	cout << "Enter the amount of locations to consider: ";
 	cin >> numberOfLocations;
 	cout << endl;
 	cout << "NOTE: This program starts you at the location 0,0 and ends you at the location 0,0. So consider this if you want to work out the maths" << endl;
 	cout << "SO: If you are analyzing the permutation 1234, you will start at position 0,0 go to whatever x,y location 1 has, then to 2, then to 3, then to 4, and back to 0,0" << endl;
-	cout << "Enter the x position, y position, and the name of the node for each of the" << numberOfLocations << " locations: " << endl;
+	cout << "Enter the x position and y position for each of the" << numberOfLocations << " locations: " << endl;
 
 	for (int index = 0; index < numberOfLocations; index++)
 	{
 		cin >> x;
 		cin >> y;
-		cin >> name;
-		nodeStops.push_back(nodeInformation(x, y, name));
+		nodeStops.push_back(nodeInformation(x, y));
 		nodeStops[index].setLoc(index + 1);
 
 	}

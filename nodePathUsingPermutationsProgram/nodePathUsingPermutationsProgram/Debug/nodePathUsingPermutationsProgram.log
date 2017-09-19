@@ -1,13 +1,14 @@
 ﻿  Source.cpp
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(22): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(53): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(51): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(71): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick\documents\dev\programmingprojects\languages\c++\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(80): warning C4018: '<': signed/unsigned mismatch
-  nodePathUsingPermutationsProgram.vcxproj -> C:\Users\Nick\Documents\Dev\ProgrammingProjects\Languages\C++\nodePathUsingPermutationsProgram\Debug\nodePathUsingPermutationsProgram.exe
-  nodePathUsingPermutationsProgram.vcxproj -> C:\Users\Nick\Documents\Dev\ProgrammingProjects\Languages\C++\nodePathUsingPermutationsProgram\Debug\nodePathUsingPermutationsProgram.pdb (Partial PDB)
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\nodeanalysis.hpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\documents\github\shortest-node-path-analyzer\nodepathusingpermutationsprogram\nodepathusingpermutationsprogram\source.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\Nicholas\Documents\GitHub\Shortest-Node-Path-Analyzer\nodePathUsingPermutationsProgram\Debug\nodePathUsingPermutationsProgram.exe not found or not built by the last incremental link; performing full link
+  nodePathUsingPermutationsProgram.vcxproj -> C:\Users\Nicholas\Documents\GitHub\Shortest-Node-Path-Analyzer\nodePathUsingPermutationsProgram\Debug\nodePathUsingPermutationsProgram.exe
+  nodePathUsingPermutationsProgram.vcxproj -> C:\Users\Nicholas\Documents\GitHub\Shortest-Node-Path-Analyzer\nodePathUsingPermutationsProgram\Debug\nodePathUsingPermutationsProgram.pdb (Partial PDB)
