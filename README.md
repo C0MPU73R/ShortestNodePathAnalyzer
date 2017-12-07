@@ -13,4 +13,3 @@ Feel free to update and rebuild some methods if you wish. This is an early versi
 
 
 
-If you have any questions or cool changes please email me (using a relevant subject name) at: nicholascleveland@protonmail.com
